@@ -1,0 +1,17 @@
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\obj\Debug\net8.0\FFTransform.csproj.AssemblyReference.cache
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\obj\Debug\net8.0\FFTransform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\obj\Debug\net8.0\FFTransform.AssemblyInfoInputs.cache
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\obj\Debug\net8.0\FFTransform.AssemblyInfo.cs
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\obj\Debug\net8.0\FFTransform.csproj.CoreCompileInputs.cache
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\bin\Debug\net8.0\FFTransform.exe
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\bin\Debug\net8.0\FFTransform.deps.json
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\bin\Debug\net8.0\FFTransform.runtimeconfig.json
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\bin\Debug\net8.0\FFTransform.dll
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\bin\Debug\net8.0\FFTransform.pdb
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\obj\Debug\net8.0\FFTransform.csproj.CopyComplete
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\obj\Debug\net8.0\FFTransform.dll
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\obj\Debug\net8.0\refint\FFTransform.dll
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\obj\Debug\net8.0\FFTransform.pdb
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\obj\Debug\net8.0\FFTransform.genruntimeconfig.cache
+C:\Users\Mark\RiderProjects\FFTransform\FFTransform\obj\Debug\net8.0\ref\FFTransform.dll
